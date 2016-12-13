@@ -33,3 +33,5 @@ Other:
 export FLASK_APP=app.py
 flask run
 ```
+
+Once running, doing a POST request to `localhost:5000/topics` will execute the code and return the results.
